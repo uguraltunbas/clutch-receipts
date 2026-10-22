@@ -8,6 +8,10 @@ anyone, without trusting us: the numbers are here, with GitHub's own clock
 on every one, before the games are played. The app's Ledger grades exactly
 these numbers — the wins and the misses.
 
+The graded record built from these files is public too: every call on
+[the Ledger](https://clutchledger.com/ledger/), and how accurate the numbers
+have been, band by band, in [the accuracy report](https://clutchledger.com/accuracy/).
+
 ## What is in this repository
 
 | File | What it is |
